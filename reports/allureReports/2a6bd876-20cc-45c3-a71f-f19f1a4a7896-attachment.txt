@@ -1,0 +1,3 @@
+[32mINFO    [0m elementPage:customCommands.py:54 Element found with LocatorType: id with the locatorValue :com.code2lead.kwad:id/Edt_admin
+[32mINFO    [0m elementPage:customCommands.py:81 Send text  on Element with LocatorType: id and with the locatorValue :com.code2lead.kwad:id/Edt_admin
+[32mINFO    [0m elementPage:customCommands.py:68 Clicked on Element with LocatorType: text and with the locatorValue :SUBMIT

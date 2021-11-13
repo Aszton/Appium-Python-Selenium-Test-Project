@@ -1,0 +1,8 @@
+[32mINFO    [0m elementPage:customCommands.py:68 Clicked on Element with LocatorType: id and with the locatorValue :com.code2lead.kwad:id/Login
+[32mINFO    [0m elementPage:customCommands.py:54 Element found with LocatorType: index with the locatorValue :3
+[32mINFO    [0m elementPage:customCommands.py:81 Send text  on Element with LocatorType: index and with the locatorValue :3
+[32mINFO    [0m elementPage:customCommands.py:54 Element found with LocatorType: text with the locatorValue :Enter Password
+[32mINFO    [0m elementPage:customCommands.py:81 Send text  on Element with LocatorType: text and with the locatorValue :Enter Password
+[32mINFO    [0m elementPage:customCommands.py:68 Clicked on Element with LocatorType: id and with the locatorValue :com.code2lead.kwad:id/Btn3
+[32mINFO    [0m elementPage:customCommands.py:57 Element not found with LocatorType: text and with the locatorValue :Enter Admin
+[32mINFO    [0m elementPage:customCommands.py:99  Element with LocatorType: text and with the locatorValue :Enter Admin is not displayed
